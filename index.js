@@ -1,5 +1,5 @@
 window.onload = start;
-var image, boxImage, button;
+let image, boxImage, button;
 
 function start() {
   document.querySelector("body").insertAdjacentHTML(
